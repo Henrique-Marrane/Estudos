@@ -1,4 +1,4 @@
-# Receita
+# Receita :(chicken)
 
 ### Ingredientes
 
