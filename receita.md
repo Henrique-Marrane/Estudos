@@ -16,7 +16,7 @@ sal e pimenta-do-reino moída na hora a gosto.
 
 ### Modo de Preparo
 
-Corte o peito de frango em cubos de 2,5 cm, transfira para uma tigela e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes – se o frango estiver gelado na hora de ir para a panela, vai cozinhar em vez de dourar.
+1. Corte o peito de frango em cubos de 2,5 cm, transfira para uma tigela e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes – se o frango estiver gelado na hora de ir para a panela, vai cozinhar em vez de dourar.
 Corte os cogumelos-de-paris em 3 fatias (os menores corte apenas ao meio). Descasque e pique fino a cebola e os dentes de alho.
 Leve ao fogo médio uma panela média. Quando aquecer, regue com 1 colher (sopa) de azeite doure os cubos de frango em etapas, sem amontoar – para que fiquem dourados. Tempere com sal e vire com a pinça para dourar os cubos por igual. Transfira para uma tigela e repita com o restante, regando a panela com azeite a cada leva.
 Abaixe o fogo da panela e regue com mais 1 colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue até murchar, por 3 minutos – aproveite para ir raspando o fundo da panela, dissolvendo os queimadinhos que são essenciais para dar sabor ao preparo. Junte o alho e mexa por 1 minuto para perfumar. 
