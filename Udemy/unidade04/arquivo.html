@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>Unidade 02 - Elemento Head</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Henrique Marrane">
+        <meta name="keywords" content="HTML, Curso de HTML, CSS, Javascript">
+        <meta http-equiv="refresh" content="5">
+
+        <style>
+            body{
+                background: rgb(192, 192, 192);
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        </style>
+
+        <script>
+            function escreverNome() {
+                nome.innerHTML = "Henrique Marrane"
+            }
+            function sorteioNumero () {
+                resultado.innerHTML = Math.random() * 50;
+            }
+
+            window.onload = escreverNome
+            window.onload = sorteioNumero
+        </script>
+        
+    </head>
+    <body>
+        <p id="nome">
+        <p id="resultado">
+    </body>
+</html>
