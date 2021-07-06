@@ -1,0 +1,90 @@
+@font-face {
+  font-family: android;
+  src: url(../fontes/idroid.otf);
+}
+
+body {
+  background-color:#3cd681 ;
+}
+
+header {
+  background-image: linear-gradient(#3cd681, #174d2f);
+  padding: 0;
+  margin: 0;
+  height: 200px;
+}
+
+header > h1 {
+  text-align: center;
+  margin: 1px;
+  color: white;
+  padding: 15px;
+  
+}
+
+header > p {
+  text-align: center;
+  margin: 10px;
+  height: 85px;
+  color: white;
+  font-weight: bold;
+  padding-right: 10px;
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+
+}
+h2{
+  background-image: linear-gradient(to right, #3cd681, #3cd68132);
+}
+
+.font {
+  font-family: android;
+  color: #174d2f;
+}
+
+main {
+  margin-top: 0px;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 20px;
+  background-color: white;
+}
+
+iframe {
+  background-color: #174d2f;
+  width: 750px;
+  padding: 20px;
+}
+
+footer {
+  background-color: #174d2f;
+  height: 50px;
+  text-align: center;
+  
+}
+
+span {
+  color: #174d2f;
+  font-weight: bold;
+}
+
+  h3 {
+    background-color: #1b8f4f;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .info {
+    background-color: #a3d8bb;
+    border-radius: 5px;
+    
+  }
+
+  .espaco {
+    padding: 5px;
+  }
