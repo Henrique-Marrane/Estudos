@@ -1,0 +1,7 @@
+print ('Esse script e para estudo 03')
+print('-----------------------------------')
+num1 = input ('Digite um numero')
+num2 = input ('Digite um outro numero')
+print (int(num1) + int(num2))
+print('-----------------------------------')
+print ('Fim do script')

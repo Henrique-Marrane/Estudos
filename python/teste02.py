@@ -1,0 +1,8 @@
+print ('Esse script e para estudo 02')
+print('-----------------------------------')
+dia = input('Me diga o dia em que vc nasceu?')
+mes = input ('Me diga agora o mes que vc nasceu?')
+ano = input ('Por ultimo diga em que ano vc nasceu?')
+print ('Essa e sua data de nascimento, ',dia,'-',mes,'-',ano)
+print('-----------------------------------')
+print ('Fim do script')
